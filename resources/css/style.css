@@ -10,7 +10,7 @@ body {
 .btn-nav {
 
           color: white;
-          font-size: 18px;  
+          font-size: 18px;
         }
 
 h1, h2, h3, h4 {font-weight: bold;}
@@ -30,7 +30,7 @@ p     {font-size: 14px;}
 
 
 
-footer  {
+.footer  {
 
         text-align: left;
         font-size: 11px;
