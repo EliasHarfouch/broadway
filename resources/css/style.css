@@ -4,15 +4,27 @@ body {
   text-align: center;
 }
 
+h1, h2, h3 {weight: bold;}
+
+h1    {font-size: 70px;}
+h2    {font-size:  32px;}
+h3    {font-size:  23px;}
+
+p     {font-size: 14px;}
+
+.links {font-size: 18px;}
 
 
 
 
 
+#design {
 
+          font-size: 23px;
+          font-weight: bold;
+          background-image: url('resources/images/background.png')
 
-
-
+        }
 
 
 footer  {
@@ -20,6 +32,6 @@ footer  {
         text-align: left;
         font-size: 11px;
         background-color: dimgray;
-        color: white;  
+        color: white;
 
     }
